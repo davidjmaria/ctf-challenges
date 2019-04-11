@@ -1,6 +1,6 @@
 # Wrestler Name Generator
 Author: David Maria
-CTF: [SunshineCTF 2019](2019.sunshinectf.org)
+CTF: [SunshineCTF 2019](https://2019.sunshinectf.org)
 ## Description
 A Server Side Template Injection Challenge. This site is supposed to be a developers project portfolio. The page contains two projects, a "custom greeting" page and a "dynamic page rendering page". The custom greeting page takes a name as input from the URL and displays it on the page with a greeting, and teh dynamic page rendering page allows you to choose which page you want to see renders it for you. On the backend, the dynamic page rendering page will request the template specified in the POST request and render it using a templating engine.
 ## Solution

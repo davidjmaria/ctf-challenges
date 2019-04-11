@@ -1,7 +1,7 @@
 #  The Whole Pkg
 
 Author: David Maria
-CTF: [SunshineCTF 2019](2019.sunshinectf.org)
+CTF: [SunshineCTF 2019](https://2019.sunshinectf.org)
 
 # Description
 This challenge consists of a nodeJS application that has been compiled using [pkg](https://github.com/zeit/pkg). Pkg compiled the node source to V8 bytecode, so it won't be possible to retrieve the source from the binary (easily). Pkg also packages all of the assets / files needed by the application into the binary in a virtual file system.

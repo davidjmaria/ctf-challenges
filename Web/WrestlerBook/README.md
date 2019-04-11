@@ -1,6 +1,6 @@
 # WrestlerBook
 Author: David Maria
-CTF: [SunshineCTF 2019](2019.sunshinectf.org)
+CTF: [SunshineCTF 2019](https://2019.sunshinectf.org)
 ## Description
 A sqli challenge where you have to automate using sqli to log in as all users in the DB to find which user has the flag.
 

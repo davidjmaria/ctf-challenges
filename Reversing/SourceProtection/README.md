@@ -1,6 +1,6 @@
 # [Reversing] Source Protection
 The goal for this challenge is to get the source code of a python script that has been compiled using pyinstaller.
-CTF: [SunshineCTF 2018](2018.sunshinectf.org)
+CTF: [SunshineCTF 2018](https://2018.sunshinectf.org)
 
 ## How it works
 The python script is supposed to be a password manager, it takes in a secret phrase and if the phrase is correct it will return all of the stored passwords. This script has been compiled using pyinstaller, which is a tool that compiles python code so that you can easily distribute it.

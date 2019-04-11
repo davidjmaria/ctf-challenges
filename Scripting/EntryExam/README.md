@@ -1,6 +1,6 @@
 # Entry Exam
 Author: David Maria
-CTF: [SunshineCTF 2019](2019.sunshinectf.org)
+CTF: [SunshineCTF 2019](https://2019.sunshinectf.org)
 ## Description
 A scripting challenge where the player has to automate solving a set of 20 multiple choice problem math exams. The solutions to each exam have to be submitted by filling out a PNG image of a scantron as if it were a real scantron, and submitting that to the site within 2 seconds of receiving the exam. After finishing 10 exams successfully, the flag is given.
 
